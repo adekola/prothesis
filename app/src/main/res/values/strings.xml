@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Prothesis</string>
+    <string name="device_type_prompt">Choose a Device Type</string>
+    <string name="comm_tech_prompt">Choose a comm tech</string>
+    <string name="add_device">Add Device</string>
+    <string name="offtill">Offtill</string>
+
+    <string-array name="device_types">
+        <item>Dimmer</item>
+        <item>Temperature Sensor</item>
+        <item>Humidity Sensor</item>
+        <item>Wireless Switch</item>
+        <item>Heating Controller</item>
+        <item>Occupancy Sensor</item>
+    </string-array>
+
+    <string-array name="comm_tech">
+        <item>FS20</item>
+        <item>HomeMatic</item>
+        <item>EnOcean</item>
+    </string-array>
+</resources>
